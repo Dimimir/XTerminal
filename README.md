@@ -1,3 +1,10 @@
+![Картинка](XTerminal/logo.png)
+
+
+
+
+
+
 # Welcome to XTerminal!
 
 **XTerminal** - it's improved version of the Windows command prompt. This is a plugin extensible terminal with an incredibly simple API.
