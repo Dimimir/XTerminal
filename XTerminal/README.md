@@ -73,7 +73,7 @@ By the way, you can use the get command to get the source code of the site:
 get https://github.com
 ```
 # Working with files in XTerminal
-o go to the directory, you can use:
+To go to the directory, you can use:
 ```python
 cd C:\Users\Admin\Desktop\XTerminal
 ```
