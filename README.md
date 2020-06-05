@@ -1,4 +1,4 @@
-![Картинка](XTerminal/logo.png)
+![XTerminal](XTerminal/logo.png)
 
 
 
