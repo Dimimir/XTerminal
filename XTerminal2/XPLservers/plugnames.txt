@@ -1,0 +1,2 @@
+https://github.com/Dimimir/osplugin/archive/master.zip
+osplugin
